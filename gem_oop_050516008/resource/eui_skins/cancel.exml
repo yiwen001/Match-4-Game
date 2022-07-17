@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="cancel" width="1190" height="1376" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="h5by_xyx_qxgj_png" x="1060" y="908"/>
+</e:Skin>

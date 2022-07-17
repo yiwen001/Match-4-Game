@@ -1,0 +1,33 @@
+{
+    "projectName": "lhdb_eff_bomb",
+    "files": [
+        "./lhdb_eff_bomb/elem_bomb_0.png",
+        "./lhdb_eff_bomb/elem_bomb_19.png",
+        "./lhdb_eff_bomb/elem_bomb_18.png",
+        "./lhdb_eff_bomb/elem_bomb_17.png",
+        "./lhdb_eff_bomb/elem_bomb_16.png",
+        "./lhdb_eff_bomb/elem_bomb_15.png",
+        "./lhdb_eff_bomb/elem_bomb_14.png",
+        "./lhdb_eff_bomb/elem_bomb_13.png",
+        "./lhdb_eff_bomb/elem_bomb_12.png",
+        "./lhdb_eff_bomb/elem_bomb_11.png",
+        "./lhdb_eff_bomb/elem_bomb_10.png",
+        "./lhdb_eff_bomb/elem_bomb_9.png",
+        "./lhdb_eff_bomb/elem_bomb_8.png",
+        "./lhdb_eff_bomb/elem_bomb_7.png",
+        "./lhdb_eff_bomb/elem_bomb_6.png",
+        "./lhdb_eff_bomb/elem_bomb_5.png",
+        "./lhdb_eff_bomb/elem_bomb_4.png",
+        "./lhdb_eff_bomb/elem_bomb_3.png",
+        "./lhdb_eff_bomb/elem_bomb_2.png",
+        "./lhdb_eff_bomb/elem_bomb_1.png"
+    ],
+    "options": {
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0,
+        "layoutMath": "3"
+    },
+    "version": 5
+}

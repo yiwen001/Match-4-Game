@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MyButton" width="1411" height="950" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="L45" source="h5by_xyx_ks_png" anchorOffsetX="0" width="159" anchorOffsetY="0" height="74" x="1060" y="908"/>
+</e:Skin>

@@ -1,0 +1,1240 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,elem_bomb_0_png,elem_bomb_1_png,elem_bomb_10_png,elem_bomb_11_png,elem_bomb_12_png,elem_bomb_13_png,elem_bomb_14_png,elem_bomb_15_png,elem_bomb_16_png,elem_bomb_17_png,elem_bomb_18_png,elem_bomb_19_png,elem_bomb_2_png,elem_bomb_3_png,elem_bomb_4_png,elem_bomb_5_png,elem_bomb_6_png,elem_bomb_7_png,elem_bomb_8_png,elem_bomb_9_png,elem_eli_1_0_png,elem_eli_1_1_png,elem_eli_1_2_png,elem_eli_1_3_png,elem_eli_1_4_png,elem_eli_1_5_png,elem_eli_1_6_png,elem_eli_1_7_png,elem_eli_1_8_png,elem_eli_1_9_png,elem_eli_2_0_png,elem_eli_2_1_png,elem_eli_2_2_png,elem_eli_2_3_png,elem_eli_2_4_png,elem_eli_2_5_png,elem_eli_2_6_png,elem_eli_2_7_png,elem_eli_2_8_png,elem_eli_2_9_png,elem_eli_3_0_png,elem_eli_3_1_png,elem_eli_3_2_png,elem_eli_3_3_png,elem_eli_3_4_png,elem_eli_3_5_png,elem_eli_3_6_png,elem_eli_3_7_png,elem_eli_3_8_png,elem_eli_3_9_png,elem_eli_4_0_png,elem_eli_4_1_png,elem_eli_4_2_png,elem_eli_4_3_png,elem_eli_4_4_png,elem_eli_4_5_png,elem_eli_4_6_png,elem_eli_4_7_png,elem_eli_4_8_png,elem_eli_4_9_png,elem_eli_5_0_png,elem_eli_5_1_png,elem_eli_5_2_png,elem_eli_5_3_png,elem_eli_5_4_png,elem_eli_5_5_png,elem_eli_5_6_png,elem_eli_5_7_png,elem_eli_5_8_png,elem_eli_5_9_png,0_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,x_png,02_png,12_png,22_png,32_png,42_png,52_png,62_png,72_png,82_png,92_png,x2_png,03_png,13_png,23_png,33_png,43_png,53_png,63_png,73_png,83_png,93_png,04_png,14_png,24_png,34_png,44_png,54_png,64_png,74_png,84_png,94_png,05_png,15_png,25_png,35_png,45_png,55_png,65_png,75_png,85_png,95_png,06_png,16_png,26_png,36_png,46_png,56_png,66_png,76_png,86_png,96_png,x3_png,07_png,17_png,27_png,37_png,47_png,57_png,67_png,77_png,87_png,97_png,l_png,08_png,18_png,28_png,38_png,48_png,58_png,68_png,78_png,88_png,98_png,h5by_hdmj_djpmjx_png,h5by_hdmj_kpzm1_png,h5by_hdmj_kpzm2_png,h5by_hdmj_qxz_jpg,gem_1_png,gem_10_png,gem_11_png,gem_12_png,gem_13_png,gem_14_png,gem_15_png,gem_2_png,gem_3_png,gem_4_png,gem_5_png,gem_6_png,gem_7_png,gem_8_png,gem_9_png,gem_bomb_png,gem_brick01_01_png,gem_btn_help_png,gem_btn_music_png,h5by_xyx_ckjl_png,h5by_xyx_deg_png,h5by_xyx_djjl_png,h5by_xyx_dsg_png,h5by_xyx_dyg_png,h5by_xyx_fh_png,h5by_xyx_fkdb_png,h5by_xyx_gj_png,h5by_xyx_gjz_png,h5by_xyx_gs_png,h5by_xyx_hsks_png,h5by_xyx_jbdb-_png,h5by_xyx_jh_png,h5by_xyx_jt_png,h5by_xyx_ks_png,h5by_xyx_lj_png,h5by_xyx_qxgj_png,h5by_xyx_sbdb_png,h5by_xyx_sz_png,h5by_xyx_wh-_png,h5by_xyx_xbs_png,h5by_xyx_zzjm_png,h5by_xyx_zzjmyb_png,h5by_xyx_zzjmzb_png,h5by_xyx_bzjm_bsbssm_png,h5by_xyx_bzjm_bstgjl_png,h5by_xyx_bzjm_bsyxgz_png,h5by_xyx_bzjm_lsbssm_png,h5by_xyx_bzjm_lstgjl_png,h5by_xyx_bzjm_lsyxgz_png,h5by_xyx_djjl2_png,h5by_xyx_djjl_ct_png,h5by_xyx_djjl_ljs_png,h5by_xyx_djjl_sj_png,h5by_xyx_djjl_x_png,h5by_xyx_djjl_yf_png,h5by_xyx_djjl_zdxcs_png,h5by_xyx_djjl_db_png,h5by_xyx_djjl_gb_png,h5by_xyx_prompt_qd_png,h5by_xyx_prompt_qx_png,h5by_xyx_ts_png,prop_0_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "elem_bomb_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_0.png"
+		},
+		{
+			"name": "elem_bomb_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_1.png"
+		},
+		{
+			"name": "elem_bomb_10_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_10.png"
+		},
+		{
+			"name": "elem_bomb_11_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_11.png"
+		},
+		{
+			"name": "elem_bomb_12_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_12.png"
+		},
+		{
+			"name": "elem_bomb_13_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_13.png"
+		},
+		{
+			"name": "elem_bomb_14_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_14.png"
+		},
+		{
+			"name": "elem_bomb_15_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_15.png"
+		},
+		{
+			"name": "elem_bomb_16_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_16.png"
+		},
+		{
+			"name": "elem_bomb_17_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_17.png"
+		},
+		{
+			"name": "elem_bomb_18_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_18.png"
+		},
+		{
+			"name": "elem_bomb_19_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_19.png"
+		},
+		{
+			"name": "elem_bomb_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_2.png"
+		},
+		{
+			"name": "elem_bomb_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_3.png"
+		},
+		{
+			"name": "elem_bomb_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_4.png"
+		},
+		{
+			"name": "elem_bomb_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_5.png"
+		},
+		{
+			"name": "elem_bomb_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_6.png"
+		},
+		{
+			"name": "elem_bomb_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_7.png"
+		},
+		{
+			"name": "elem_bomb_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_8.png"
+		},
+		{
+			"name": "elem_bomb_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_bomb/elem_bomb_9.png"
+		},
+		{
+			"name": "elem_eli_1_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_0.png"
+		},
+		{
+			"name": "elem_eli_1_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_1.png"
+		},
+		{
+			"name": "elem_eli_1_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_2.png"
+		},
+		{
+			"name": "elem_eli_1_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_3.png"
+		},
+		{
+			"name": "elem_eli_1_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_4.png"
+		},
+		{
+			"name": "elem_eli_1_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_5.png"
+		},
+		{
+			"name": "elem_eli_1_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_6.png"
+		},
+		{
+			"name": "elem_eli_1_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_7.png"
+		},
+		{
+			"name": "elem_eli_1_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_8.png"
+		},
+		{
+			"name": "elem_eli_1_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_1_9.png"
+		},
+		{
+			"name": "elem_eli_2_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_0.png"
+		},
+		{
+			"name": "elem_eli_2_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_1.png"
+		},
+		{
+			"name": "elem_eli_2_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_2.png"
+		},
+		{
+			"name": "elem_eli_2_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_3.png"
+		},
+		{
+			"name": "elem_eli_2_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_4.png"
+		},
+		{
+			"name": "elem_eli_2_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_5.png"
+		},
+		{
+			"name": "elem_eli_2_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_6.png"
+		},
+		{
+			"name": "elem_eli_2_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_7.png"
+		},
+		{
+			"name": "elem_eli_2_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_8.png"
+		},
+		{
+			"name": "elem_eli_2_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_2_9.png"
+		},
+		{
+			"name": "elem_eli_3_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_0.png"
+		},
+		{
+			"name": "elem_eli_3_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_1.png"
+		},
+		{
+			"name": "elem_eli_3_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_2.png"
+		},
+		{
+			"name": "elem_eli_3_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_3.png"
+		},
+		{
+			"name": "elem_eli_3_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_4.png"
+		},
+		{
+			"name": "elem_eli_3_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_5.png"
+		},
+		{
+			"name": "elem_eli_3_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_6.png"
+		},
+		{
+			"name": "elem_eli_3_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_7.png"
+		},
+		{
+			"name": "elem_eli_3_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_8.png"
+		},
+		{
+			"name": "elem_eli_3_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_3_9.png"
+		},
+		{
+			"name": "elem_eli_4_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_0.png"
+		},
+		{
+			"name": "elem_eli_4_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_1.png"
+		},
+		{
+			"name": "elem_eli_4_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_2.png"
+		},
+		{
+			"name": "elem_eli_4_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_3.png"
+		},
+		{
+			"name": "elem_eli_4_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_4.png"
+		},
+		{
+			"name": "elem_eli_4_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_5.png"
+		},
+		{
+			"name": "elem_eli_4_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_6.png"
+		},
+		{
+			"name": "elem_eli_4_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_7.png"
+		},
+		{
+			"name": "elem_eli_4_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_8.png"
+		},
+		{
+			"name": "elem_eli_4_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_4_9.png"
+		},
+		{
+			"name": "elem_eli_5_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_0.png"
+		},
+		{
+			"name": "elem_eli_5_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_1.png"
+		},
+		{
+			"name": "elem_eli_5_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_2.png"
+		},
+		{
+			"name": "elem_eli_5_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_3.png"
+		},
+		{
+			"name": "elem_eli_5_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_4.png"
+		},
+		{
+			"name": "elem_eli_5_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_5.png"
+		},
+		{
+			"name": "elem_eli_5_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_6.png"
+		},
+		{
+			"name": "elem_eli_5_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_7.png"
+		},
+		{
+			"name": "elem_eli_5_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_8.png"
+		},
+		{
+			"name": "elem_eli_5_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_eff_elem_eli/elem_eli_5_9.png"
+		},
+		{
+			"name": "0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/0.png"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/3.png"
+		},
+		{
+			"name": "4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/4.png"
+		},
+		{
+			"name": "5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/5.png"
+		},
+		{
+			"name": "6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/6.png"
+		},
+		{
+			"name": "7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/7.png"
+		},
+		{
+			"name": "8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/8.png"
+		},
+		{
+			"name": "9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/9.png"
+		},
+		{
+			"name": "x_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_combo/x.png"
+		},
+		{
+			"name": "02_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/0.png"
+		},
+		{
+			"name": "12_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/1.png"
+		},
+		{
+			"name": "22_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/2.png"
+		},
+		{
+			"name": "32_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/3.png"
+		},
+		{
+			"name": "42_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/4.png"
+		},
+		{
+			"name": "52_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/5.png"
+		},
+		{
+			"name": "62_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/6.png"
+		},
+		{
+			"name": "72_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/7.png"
+		},
+		{
+			"name": "82_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/8.png"
+		},
+		{
+			"name": "92_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/9.png"
+		},
+		{
+			"name": "x2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history1/x.png"
+		},
+		{
+			"name": "03_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/0.png"
+		},
+		{
+			"name": "13_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/1.png"
+		},
+		{
+			"name": "23_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/2.png"
+		},
+		{
+			"name": "33_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/3.png"
+		},
+		{
+			"name": "43_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/4.png"
+		},
+		{
+			"name": "53_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/5.png"
+		},
+		{
+			"name": "63_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/6.png"
+		},
+		{
+			"name": "73_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/7.png"
+		},
+		{
+			"name": "83_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/8.png"
+		},
+		{
+			"name": "93_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_history2/9.png"
+		},
+		{
+			"name": "04_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/0.png"
+		},
+		{
+			"name": "14_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/1.png"
+		},
+		{
+			"name": "24_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/2.png"
+		},
+		{
+			"name": "34_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/3.png"
+		},
+		{
+			"name": "44_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/4.png"
+		},
+		{
+			"name": "54_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/5.png"
+		},
+		{
+			"name": "64_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/6.png"
+		},
+		{
+			"name": "74_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/7.png"
+		},
+		{
+			"name": "84_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/8.png"
+		},
+		{
+			"name": "94_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery1/9.png"
+		},
+		{
+			"name": "05_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/0.png"
+		},
+		{
+			"name": "15_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/1.png"
+		},
+		{
+			"name": "25_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/2.png"
+		},
+		{
+			"name": "35_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/3.png"
+		},
+		{
+			"name": "45_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/4.png"
+		},
+		{
+			"name": "55_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/5.png"
+		},
+		{
+			"name": "65_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/6.png"
+		},
+		{
+			"name": "75_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/7.png"
+		},
+		{
+			"name": "85_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/8.png"
+		},
+		{
+			"name": "95_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_lottery2/9.png"
+		},
+		{
+			"name": "06_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/0.png"
+		},
+		{
+			"name": "16_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/1.png"
+		},
+		{
+			"name": "26_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/2.png"
+		},
+		{
+			"name": "36_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/3.png"
+		},
+		{
+			"name": "46_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/4.png"
+		},
+		{
+			"name": "56_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/5.png"
+		},
+		{
+			"name": "66_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/6.png"
+		},
+		{
+			"name": "76_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/7.png"
+		},
+		{
+			"name": "86_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/8.png"
+		},
+		{
+			"name": "96_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/9.png"
+		},
+		{
+			"name": "x3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_point/x.png"
+		},
+		{
+			"name": "07_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/0.png"
+		},
+		{
+			"name": "17_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/1.png"
+		},
+		{
+			"name": "27_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/2.png"
+		},
+		{
+			"name": "37_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/3.png"
+		},
+		{
+			"name": "47_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/4.png"
+		},
+		{
+			"name": "57_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/5.png"
+		},
+		{
+			"name": "67_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/6.png"
+		},
+		{
+			"name": "77_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/7.png"
+		},
+		{
+			"name": "87_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/8.png"
+		},
+		{
+			"name": "97_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/9.png"
+		},
+		{
+			"name": "l_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_record/l.png"
+		},
+		{
+			"name": "08_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/0.png"
+		},
+		{
+			"name": "18_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/1.png"
+		},
+		{
+			"name": "28_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/2.png"
+		},
+		{
+			"name": "38_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/3.png"
+		},
+		{
+			"name": "48_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/4.png"
+		},
+		{
+			"name": "58_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/5.png"
+		},
+		{
+			"name": "68_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/6.png"
+		},
+		{
+			"name": "78_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/7.png"
+		},
+		{
+			"name": "88_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/8.png"
+		},
+		{
+			"name": "98_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_font_score/9.png"
+		},
+		{
+			"name": "h5by_hdmj_djpmjx_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_lottery/h5by_hdmj_djpmjx.png"
+		},
+		{
+			"name": "h5by_hdmj_kpzm1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_lottery/h5by_hdmj_kpzm1.png"
+		},
+		{
+			"name": "h5by_hdmj_kpzm2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_lottery/h5by_hdmj_kpzm2.png"
+		},
+		{
+			"name": "h5by_hdmj_qxz_jpg",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_lottery/h5by_hdmj_qxz.jpg"
+		},
+		{
+			"name": "gem_1_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_1.png"
+		},
+		{
+			"name": "gem_10_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_10.png"
+		},
+		{
+			"name": "gem_11_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_11.png"
+		},
+		{
+			"name": "gem_12_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_12.png"
+		},
+		{
+			"name": "gem_13_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_13.png"
+		},
+		{
+			"name": "gem_14_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_14.png"
+		},
+		{
+			"name": "gem_15_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_15.png"
+		},
+		{
+			"name": "gem_2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_2.png"
+		},
+		{
+			"name": "gem_3_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_3.png"
+		},
+		{
+			"name": "gem_4_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_4.png"
+		},
+		{
+			"name": "gem_5_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_5.png"
+		},
+		{
+			"name": "gem_6_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_6.png"
+		},
+		{
+			"name": "gem_7_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_7.png"
+		},
+		{
+			"name": "gem_8_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_8.png"
+		},
+		{
+			"name": "gem_9_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_9.png"
+		},
+		{
+			"name": "gem_bomb_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_bomb.png"
+		},
+		{
+			"name": "gem_brick01_01_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_brick01_01.png"
+		},
+		{
+			"name": "gem_btn_help_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_btn_help.png"
+		},
+		{
+			"name": "gem_btn_music_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/gem_btn_music.png"
+		},
+		{
+			"name": "h5by_xyx_ckjl_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_ckjl.png"
+		},
+		{
+			"name": "h5by_xyx_deg_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_deg.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_djjl.png"
+		},
+		{
+			"name": "h5by_xyx_dsg_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_dsg.png"
+		},
+		{
+			"name": "h5by_xyx_dyg_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_dyg.png"
+		},
+		{
+			"name": "h5by_xyx_fh_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_fh.png"
+		},
+		{
+			"name": "h5by_xyx_fkdb_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_fkdb.png"
+		},
+		{
+			"name": "h5by_xyx_gj_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_gj.png"
+		},
+		{
+			"name": "h5by_xyx_gjz_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_gjz.png"
+		},
+		{
+			"name": "h5by_xyx_gs_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_gs.png"
+		},
+		{
+			"name": "h5by_xyx_hsks_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_hsks.png"
+		},
+		{
+			"name": "h5by_xyx_jbdb-_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_jbdb-.png"
+		},
+		{
+			"name": "h5by_xyx_jh_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_jh.png"
+		},
+		{
+			"name": "h5by_xyx_jt_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_jt.png"
+		},
+		{
+			"name": "h5by_xyx_ks_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_ks.png"
+		},
+		{
+			"name": "h5by_xyx_lj_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_lj.png"
+		},
+		{
+			"name": "h5by_xyx_qxgj_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_qxgj.png"
+		},
+		{
+			"name": "h5by_xyx_sbdb_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_sbdb.png"
+		},
+		{
+			"name": "h5by_xyx_sz_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_sz.png"
+		},
+		{
+			"name": "h5by_xyx_wh-_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_wh-.png"
+		},
+		{
+			"name": "h5by_xyx_xbs_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_xbs.png"
+		},
+		{
+			"name": "h5by_xyx_zzjm_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_zzjm.png"
+		},
+		{
+			"name": "h5by_xyx_zzjmyb_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_zzjmyb.png"
+		},
+		{
+			"name": "h5by_xyx_zzjmzb_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_main/h5by_xyx_zzjmzb.png"
+		},
+		{
+			"name": "h5by_xyx_bzjm_bsbssm_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_bzjm_bsbssm.png"
+		},
+		{
+			"name": "h5by_xyx_bzjm_bstgjl_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_bzjm_bstgjl.png"
+		},
+		{
+			"name": "h5by_xyx_bzjm_bsyxgz_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_bzjm_bsyxgz.png"
+		},
+		{
+			"name": "h5by_xyx_bzjm_lsbssm_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_bzjm_lsbssm.png"
+		},
+		{
+			"name": "h5by_xyx_bzjm_lstgjl_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_bzjm_lstgjl.png"
+		},
+		{
+			"name": "h5by_xyx_bzjm_lsyxgz_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_bzjm_lsyxgz.png"
+		},
+		{
+			"name": "h5by_xyx_djjl2_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_ct_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl_ct.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_ljs_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl_ljs.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_sj_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl_sj.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_x_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl_x.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_yf_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl_yf.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_zdxcs_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_other/h5by_xyx_djjl_zdxcs.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_db_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_tip/h5by_xyx_djjl_db.png"
+		},
+		{
+			"name": "h5by_xyx_djjl_gb_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_tip/h5by_xyx_djjl_gb.png"
+		},
+		{
+			"name": "h5by_xyx_prompt_qd_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_tip/h5by_xyx_prompt_qd.png"
+		},
+		{
+			"name": "h5by_xyx_prompt_qx_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_tip/h5by_xyx_prompt_qx.png"
+		},
+		{
+			"name": "h5by_xyx_ts_png",
+			"type": "image",
+			"url": "baoshi/lhdb/lhdb_ui_tip/h5by_xyx_ts.png"
+		},
+		{
+			"name": "prop_0_png",
+			"type": "image",
+			"url": "baoshi/lhdb/prop_0.png"
+		}
+	]
+}

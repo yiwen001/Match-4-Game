@@ -1,0 +1,18 @@
+{
+    "projectName": "lhdb_ui_tip",
+    "files": [
+        "./lhdb_ui_tip/h5by_xyx_djjl_gb.png",
+        "./lhdb_ui_tip/h5by_xyx_djjl_db.png",
+        "./lhdb_ui_tip/h5by_xyx_ts.png",
+        "./lhdb_ui_tip/h5by_xyx_prompt_qx.png",
+        "./lhdb_ui_tip/h5by_xyx_prompt_qd.png"
+    ],
+    "options": {
+        "layoutMath": "3",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "version": 5
+}

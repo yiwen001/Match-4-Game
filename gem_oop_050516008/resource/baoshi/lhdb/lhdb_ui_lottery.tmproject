@@ -1,0 +1,17 @@
+{
+    "projectName": "lhdb_ui_lottery",
+    "options": {
+        "layoutMath": "3",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "files": [
+        "./lhdb_ui_lottery/h5by_hdmj_djpmjx.png",
+        "./lhdb_ui_lottery/h5by_hdmj_qxz.jpg",
+        "./lhdb_ui_lottery/h5by_hdmj_kpzm2.png",
+        "./lhdb_ui_lottery/h5by_hdmj_kpzm1.png"
+    ],
+    "version": 5
+}

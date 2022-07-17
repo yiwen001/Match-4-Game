@@ -1,0 +1,26 @@
+{
+    "options": {
+        "layoutMath": "3",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "projectName": "lhdb_ui_other",
+    "files": [
+        "./lhdb_ui_other/h5by_xyx_bzjm_lsbssm.png",
+        "./lhdb_ui_other/h5by_xyx_bzjm_bsyxgz.png",
+        "./lhdb_ui_other/h5by_xyx_bzjm_bstgjl.png",
+        "./lhdb_ui_other/h5by_xyx_bzjm_bsbssm.png",
+        "./lhdb_ui_other/h5by_xyx_djjl_zdxcs.png",
+        "./lhdb_ui_other/h5by_xyx_djjl_yf.png",
+        "./lhdb_ui_other/h5by_xyx_djjl_x.png",
+        "./lhdb_ui_other/h5by_xyx_djjl_sj.png",
+        "./lhdb_ui_other/h5by_xyx_djjl_ljs.png",
+        "./lhdb_ui_other/h5by_xyx_djjl_ct.png",
+        "./lhdb_ui_other/h5by_xyx_djjl.png",
+        "./lhdb_ui_other/h5by_xyx_bzjm_lsyxgz.png",
+        "./lhdb_ui_other/h5by_xyx_bzjm_lstgjl.png"
+    ],
+    "version": 5
+}

@@ -1,0 +1,28 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/guajibutton.js",
+		"bin-debug/Bomb.js",
+		"bin-debug/cancelbutton.js",
+		"bin-debug/AutoIngButton.js",
+		"bin-debug/map.js",
+		"bin-debug/MyButton.js",
+		"bin-debug/BgSkin.js",
+		"bin-debug/Gem.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/button.js",
+		"bin-debug/ButtonProcess.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/tools.js"
+	]
+}
