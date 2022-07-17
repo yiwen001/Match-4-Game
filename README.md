@@ -10,3 +10,7 @@ This demo is based on TypeScript created by Egret Engine. It includes the initia
 * Src\Gem: Get the color/position/mark or not information of each gem 
 * Src\Bomb: Bomb special effects
 
+
+### Preview
+
+![image](https://github.com/yiwen001/Match-4-Game/blob/main/gem_.gif)
